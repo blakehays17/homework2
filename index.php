@@ -6,12 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include("bootstrap.php"); ?>
+    <link rel="stylesheet" href="main.css">
     <title>Home</title>
 </head>
 
 <body>
     <?php include("header.php"); ?>
-    <h1>Homework 2</h1>
+    <div class="content">
+        <h1>Homework 2</h1>
+    </div>
     <?php include("footer.php"); ?>
 </body>
 
