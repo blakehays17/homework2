@@ -11,5 +11,5 @@ footer {
     line-height: 50px;
 }
 nav {
-    background-color: lightcyan;
+    background-color: lightcyan !important;
 }
