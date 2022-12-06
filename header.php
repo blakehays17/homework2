@@ -8,20 +8,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="mygroup.php">My Group</a>
+                    <a class="nav-link active" aria-current="page" href="myget.php">$_GET</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="population.php">World Data</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
-                        aria-expanded="false">
-                        More Stuff!
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="learning.php">How I Learned</a></li>
-                        <li><a class="dropdown-item" href="googlesearch.php">Search Google</a></li>
-                    </ul>
+                    <a class="nav-link" href="mypost.php">$_POST</a>
                 </li>
             </ul>
         </div>
