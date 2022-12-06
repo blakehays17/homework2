@@ -7,3 +7,6 @@ footer {
     color: darkgrey;
     text-align: center;
   }
+.footer {
+    line-height: 50px;
+}
