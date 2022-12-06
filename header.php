@@ -11,7 +11,7 @@
                     <a class="nav-link active" aria-current="page" href="mygroup.html">My Group</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="population.html">World Population Data</a>
+                    <a class="nav-link" href="population.html">World Data</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
